@@ -1,9 +1,9 @@
 {
-  "name": "react-redux-registration-login-example",
+  "name": "dd-aws-backend",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cornflourblue/react-redux-registration-login-example.git"
+    "url": "https://github.com/DimpleDesk/awsFrontend.git"
   },
   "license": "MIT",
   "scripts": {
